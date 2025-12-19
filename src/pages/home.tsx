@@ -21,6 +21,13 @@ const Home = () => {
       hoverGradient: "linear-gradient(135deg, #059669, #047857)",
       icon: Trophy 
     },
+    {
+      path: "/lineup",
+      text: "Line Up",
+      gradient: "linear-gradient(135deg, #8B5CF6, #7C3AED)",
+      hoverGradient: "linear-gradient(135deg, #7C3AED, #6D28D9)",
+      icon: Layout
+    }
   ];
 
   return (
